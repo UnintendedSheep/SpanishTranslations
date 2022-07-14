@@ -2,12 +2,12 @@
 need help uploading this file to your computer? 
 Start by downloading this file. 
 open up your search bar in Windows Desktop.
-Search %appdata%
-click on MajicJungle. 
-click on Sapiens. 
-click on Localizations.
-Copy and past this file into the localizations folder. 
-Open up Sapiens. 
-Click Settings.
-Click Languages.
+Search "%appdata%".
+Next click on "MajicJungle". 
+Next click on "Sapiens". 
+Next click on "Localizations".
+Finally, Copy and paste this file into the localizations folder. 
+Open up Sapiens (the game). 
+Then Click "Settings".
+Next Click "Languages".
 Spanish should now be available. 
